@@ -1,0 +1,42 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+.gradiente{
+    background-image: linear-gradient(to bottom, rgb(222, 51, 222), rgb(134, 237, 134));
+    height: 100%; 
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+.calculadora {
+    width: 300px;
+    border-radius: 5px;
+    border-color: black;
+    border-style: solid;
+    margin: 0 auto;
+    position: relative;
+    top: 10%;
+    background-color: aqua;
+}
+.btn-dark{
+    margin: 0% 0% 10% 35%;
+}
+label{
+    margin-left: 33%;
+}
+input{
+    margin-left: 18%;
+}
+h3{
+    margin-left: 10%;
+}
+h1{  
+    width: 300px;
+    margin: 0 auto;
+    position: relative;
+    top: 5%; 
+    text-align: center;
+}
